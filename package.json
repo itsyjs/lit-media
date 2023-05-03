@@ -1,0 +1,17 @@
+{
+  "name": "@itsy/lit-media",
+  "version": "0.0.1",
+  "description": "a matchMedia plugin for Lit (using nanostores)",
+  "main": "index.js",
+  "exports": "./index.js",
+  "author": "Dave Honneffer <pearofducks@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@happy-dom/global-registrator": "^9.10.7",
+    "@nanostores/lit": "^0.1.2",
+    "happy-dom": "^9.10.7",
+    "lit": "^2.7.3",
+    "nanostores": "^0.8.1"
+  }
+}
